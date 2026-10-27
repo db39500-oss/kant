@@ -17,3 +17,15 @@
 
 1. 숫자1
 2. 숫자2
+
+---
+
+# 23826-10-27 TIL 진유석 Git / GitHub
+
+## 오늘 Git 명령어
+
+```sh
+git init
+git config --list
+git config --global user.email "db39500@gmail.com"
+```
